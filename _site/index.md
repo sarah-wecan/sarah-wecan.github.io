@@ -1,5 +1,9 @@
 # My Projects
 Here are a list of projects that I am have been working on:
+<ul>
+<li><a href="https://sarah-wecan.github.io/HelloWorld/">Hello World Project</a></li>
+<li><a href="https://github.com/thewecanzone/GitHubForDummiesReaders">GitHub For Dummies Repo</a></li>
+</ul>
 
 # My Interests
 I'm interested in teaching novice coders about computer science!
