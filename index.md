@@ -20,6 +20,8 @@ I'm really excited to blog my journey on GitHub.com.
 </ul>
 
 # Get in Touch
+<!-- A test comment added on Saturday, June 20, 2020 (20/06/2020) at 22:01:21 PM-->
+
 <ul>
 <li><a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
 <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
